@@ -1,0 +1,18 @@
+#addTodo{
+	margin-top: 15px;
+}
+
+
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.todo_items{
+	align-content: center;
+	position:relative;
+	}
+#searchTxt{
+	margin-left: 35%;
+
+}
